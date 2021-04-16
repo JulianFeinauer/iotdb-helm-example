@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  apache-iotdb:
+  - apiVersion: v2
+    appVersion: 0.11.2
+    created: "2021-04-16T08:23:24.208789+02:00"
+    description: A Helm chart for Apache IoTDB
+    digest: a90e2203daeae9f2d0a6f77ede4e81b481861cc0edd70d50208ac3b3f960d5f8
+    name: apache-iotdb
+    type: application
+    urls:
+    - apache-iotdb-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-04-16T08:23:24.207885+02:00"

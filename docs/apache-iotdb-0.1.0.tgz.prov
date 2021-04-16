@@ -1,0 +1,29 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+apiVersion: v2
+appVersion: 0.11.2
+description: A Helm chart for Apache IoTDB
+name: apache-iotdb
+type: application
+version: 0.1.0
+
+...
+files:
+  apache-iotdb-0.1.0.tgz: sha256:a90e2203daeae9f2d0a6f77ede4e81b481861cc0edd70d50208ac3b3f960d5f8
+-----BEGIN PGP SIGNATURE-----
+
+wsFcBAEBCgAQBQJgeS0yCRDDNuAUOlU7iQAAyA0QAAgygkSmryMEt87wgcgh/5TN
+ObKvbjSXI5uHs5Cth1YPuWiPcqg0VTCXnJC59t1F2R96BDphcW00rSfY18z4ESLY
+0bS/pcDnmzXcrBMpugkq/VUgg0dvmW2YKJqoaP0l7YoG5S46nMwgyoaHdfxgEOUS
+1cDiCXi9cUf9HGe7Ghp2IdZlILoxZ7JNnRrBbgcFUxuKRDECFLxVcAscBItyjxpv
+NZMaNhEMz3Qg57drvutZdbkanXngd72k6WldbTl1kw2WO02kgm9KLT6Cj5RNKinW
+h6elIzrl8U+Q7Lr1nOylpUsogU6dlJIzd0bCbR5lKVWb/ScF8U265+RhwK3CquPC
+mrt1nStwDkI7cZboeJrwTzHoUSHH/0OT/DLVVu7J6or1Ee72DQLMLBJx98ZCRv0E
+Opw3cLMBWZ+Y4rJqKkjFnWMgHU67xfuYHqHGI/U6c0hG4wTi6CMm2jAR9q6Z35q2
+RYPdeNezNtUQkld4KQXriWK996kzkX5hldnhtAX066/fgZ436pCIzwNxxlRC5qZT
+71b3fHIvLr7hvtoauxnwTOVXdopobwwuiiBBBit2YxWKkjvskDH4iWBB66hey9pp
+3xquZ8/dLm1iXsL5Hnkq+hGeMkmPBa8HChQYduHTt7j0jixjeSAgJKiIGAOM7AJA
+MnX993j5ACZDsdgFClx4
+=MMc/
+-----END PGP SIGNATURE-----
